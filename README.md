@@ -1,10 +1,18 @@
-Hi, I'm @AmberLynnR33, or Amber for short!
+# Hi, I'm @AmberLynnR33, or Amber for short!
 
-I love coding and writing, and this is the home to projects I completed in high school and university (with instructor permission), and on my free time.
+I'm a computer science student with a passion for coding, math and writing. This is the home to my personal projects, and ones from school (with instructor permission, of course).
 
-Currently my favourite coding language is Java, but I also know Python 3.x and am learning Javascript and C!
+## Languages
 
-Hobbies:
+- Java
+- Python 3.x
+
+The basics to:
+
+- Javascript
+- C
+
+## Hobbies:
 
 - Working on my website (see my pinned repos!)
 - Crocheting
